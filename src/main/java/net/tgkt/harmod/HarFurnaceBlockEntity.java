@@ -12,7 +12,7 @@ public class HarFurnaceBlockEntity extends AbstractFurnaceBlockEntity {
 
     @Override
     public Text getContainerName() {
-        return Text.of("har furnace");
+        return Text.of("Harium Furnace");
     }
 
     @Override
