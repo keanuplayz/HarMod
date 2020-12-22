@@ -1,0 +1,8 @@
+{
+  "type": "harmod:har_furnace",
+  "ingredient": {
+    "item": "harmod:harore"
+  },
+  "result": "harmod:harium",
+  "experience": 0.2
+}

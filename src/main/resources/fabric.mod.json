@@ -21,9 +21,15 @@
   "entrypoints": {
     "main": [
       "net.tgkt.harmod.HarMod"
-    ]
+    ],
+    "client": [
+      "net.tgkt.harmod.HarRecipeClient"
+    ],
+    "server": []
   },
   "mixins": [],
+
+  "accessWidener": "harmod.accesswidener",
 
   "depends": {
     "fabricloader": ">=0.7.4",
