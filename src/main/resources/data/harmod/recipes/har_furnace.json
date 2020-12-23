@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "HFH
+
+    ",
+    " H "
+  ],
+  "key": {
+    "H": {
+      "item": "harmod:harore"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "harmod:har_furnace",
+    "count": 1
+  }
+}
