@@ -1,5 +1,11 @@
 {
   "block.harmod.harore": "Harium Ore",
   "block.harmod.har_furnace": "Harium Furnace",
-  "item.harmod.harium": "Harium Ingot"
+  "item.harmod.harium": "Harium Ingot",
+  "item.harmod.har_axe": "Harium Axe",
+  "item.harmod.har_pickaxe": "Harium Pickaxe",
+  "item.harmod.har_sword": "Harium Sword",
+  "item.harmod.har_shovel": "Harium Shovel",
+  "item.harmod.har_hoe": "Harium Hoe"
+
 }
